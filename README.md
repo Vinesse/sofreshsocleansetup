@@ -15,7 +15,7 @@
 - **[Figma](https://www.figma.com/downloads/)** - Design
 
 ### Shell 🐚
-1. **ZSH** - *As of 2019, following the release of OS Catalina, Z Shell is the default on Mac.*
-  1. **[Oh My Zsh](https://ohmyz.sh/)** - Zsh Config
-    1. **[Oh My Zsh plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)** - e.g AWS, Kubectl
-  1. **[ZPlug](https://github.com/zplug/zplug)** - Zsh Config
+- **ZSH** - *As of 2019, following the release of OS Catalina, Z Shell is the default on Mac.*
+    - **[Oh My Zsh](https://ohmyz.sh/)** - Zsh Config
+        - **[Oh My Zsh plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)** - e.g AWS, Kubectl
+    - **[ZPlug](https://github.com/zplug/zplug)** - Zsh Config
